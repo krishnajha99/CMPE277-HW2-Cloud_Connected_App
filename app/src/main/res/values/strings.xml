@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">chatbot#dialogflow</string>
+    <string name="edit_hint">Plz add conversation..</string>
+    <string name="speech_prompt">Plz use Voice..</string>
+    <string name="speech_not_supported">Voice Support not available..</string>
+    <string name="repeat">Sry plz say it again..</string>
+    <string name="enter">Plz enter text</string>
+</resources>
